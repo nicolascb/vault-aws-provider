@@ -1,4 +1,4 @@
-# vault-aws-provider
+# vault-aws-provider [![GoDoc](https://img.shields.io/badge/pkg.go.dev-doc-blue)](https://pkg.go.dev/github.com/nicolascb/vault-aws-provider)
 
 `vault-aws-provider` is an implementation for [AWS Credentials Provider](https://pkg.go.dev/github.com/aws/aws-sdk-go-v2@v1.16.2/aws#CredentialsProvider) using Vault to fetch credentials.
 
